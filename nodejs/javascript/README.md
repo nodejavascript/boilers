@@ -1,6 +1,6 @@
 # README
 
-[Download](../javascript.zip) this `/javascript` folder as zip
+[Locate javascript.zip](../) to download this folder
 
 - Please uncomment `# .env` from `.gitignore`
 
