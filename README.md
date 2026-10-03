@@ -1,5 +1,11 @@
 ## 🚀 Welcome to **@nodejavascript/boilers**
 
+Consistency across projects is cheaper than arguing about it later. These are the shared ESLint, Prettier, Nodemon and TypeScript settings meant to be copied into a new Node.js project on day one — configuration only, no code, so every repository starts from the same floor.
+
+**What is here:** `nodejs/` holds one config per flavour (starting with `javascript/`) · `.eslintrc` and `.prettierrc.json` are the root defaults · `package.json` lists the `devDependencies` each config needs.
+
+---
+
 The goal of this repository is to quickly accept contributions and keep these configurations current to ensure us developers have the latest best-practice code quality IDE settings at our fingertips.
 
 This is not meant to include code, just minimal `package.devDependencies` where possible.
